@@ -1,0 +1,59 @@
+Call for Participation: First International Workshop on Software Engineering for High Performance Computing in Computational Science & Engineering (SE-HPCCSE 2013)
+
+http://sehpccse13.cs.ua.edu/
+In conjunction with Supercomputing 2013 (SC13)
+Friday 22nd November 2013
+Denver, Colorado
+
+New challenges in computational science & engineering (CSE) continue to push the boundaries of available computing resources. There is a demand to utilize high performance computing (HPC), including GPGPUs and computing clusters, for computational science & engineering (CSE) applications. 
+
+However developing HPC software is not an easy task. Developers must solve reliability, availability, and maintainability problems in extreme scales, understand domain specific constraints, deal with uncertainties inherent in scientific exploration, and develop algorithms that use computing resources efficiently. 
+
+Software engineering (SE) researchers have developed tools and practices to support various development tasks, including: requirements management, design, validation + verification, deployment, and maintenance. However software development for HPC historically attracted little attention from the SE community. Paradoxically, the HPC CSE community has increasingly been adopting SE techniques and tools. Indeed, the development of CSE software for HPC differs significantly from the development of more traditional business information systems, from which many SE best practices and tools have been drawn. Development of HPC CSE software requires tailoring of SE tools/methods developed for more traditional software applications to fit the requirements of HPC applications. 
+
+The SE-HPCCSE workshop addresses this need by bringing together members of the SE and HPC CSE communities to share perspectives, present findings from research and practice, and generate an agenda to improve tools and practices for developing HPC CSE software.
+
+Scope and Aims
+This workshop is concerned with identifying the problems faced by those working with HPC Computational Science & Engineering (CSE) applications, and understanding how appropriate software engineering (SE) tools and practices might be applied to support the development of HPC CSE applications. These applications include large parallel models/simulations of the physical world running on HPC systems, and applications that analyze and/or manipulate large amounts of data. 
+
+The organizing committee hopes for participation from a broad range of stakeholders from across the SE, CSE, and HPC communities on topics including:
+- Identification of the differences in development of software between business IT environments and research environments like HPC/CSE
+- The challenges of communicating (ideas. common pieces of work, requirements, functionality, practice) between people with SE and CSE backgrounds
+- SE tools and practices which are suited for HPC CSE applications 
+- Measuring the impact of SE techniques or tools on “scientific productivity”
+- SE education and training gaps that prevent the development of HPC CSE applications
+
+We invite short (4-page) position/experience reports that will be used to organize panel and group discussion sessions, and be published in advance of the workshop to inform all attendees. We especially encourage members of the HPC and CSE communities to submit practical experience papers. 
+
+Papers on other related topics are also welcome. Please contact the organizers with any questions about the relevance of particular topics.
+
+A workshop report will be produced which summarizes the workshops findings, and revised papers will be invited to be published in the workshop proceedings following the event.
+
+Important Dates
+Submission Deadline: August 23, 2013
+Author Notification: September 15, 2013
+Workshop Date: November 22, 2013
+Final Manuscript Due for proceedings: TBD
+
+Paper Submission Guidelines
+We encourage submission of short position papers (up to 4 pages) from members of the SE, HPC, and CSE communities. These papers will be published on the workshop website before the event to allow them to be read by attendees.
+
+Position papers should be submitted here: https://www.easychair.org/conferences/?conf=sehpccse2013
+
+Revised versions of papers (following the IEEE formatting guidelines) will be invited for a post workshop proceedings. At least one author of each accepted paper must register as a full participant in the workshop to have the paper appear in the proceedings.
+
+Organizing Chairs
+Jeffrey Carver - University of Alabama
+Selim Ciraci - Pacific Northwest National Laboratory
+Neil Chue Hong - Software Sustainability Institute & EPCC
+
+Program Committee
+Michael Heroux - Sandia National Laboratories
+Thomas Epperly - Lawrence Livermore National Laboratory
+David Bernholdt - Oak Ridge National Laboratory
+Lorin Hochstein - Nimbis Cloud Services
+Oreste Villa - NVidia
+Xinghui Zhao -  Washington State University - Vancouver
+John Feo - Pacific Northwest National Laboratory 
+
+
