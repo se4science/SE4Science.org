@@ -1,0 +1,44 @@
+CALL FOR PAPERS
+First International Workshop on Software Engineering for Computational Science and Engineering
+Leipzig, Germany
+Co-located with ICSE 2008
+http://www.cse.msstate.edu/~SECSE08
+
+Overview
+An important type of software that has received little attention from software engineering researchers is software developed for computational science and engineering (CS&E) applications. This software is vital for the study of many important topics from diverse application domains. A list of the top 500 supercomputers, for which many CS&E applications are written, provides an example of the diversity of government, scientific, and commercial organizations that use CS&E and highlights its growing prevalence and impact on modern society. As an example of the importance and diversity of the types of problems addressed through CS&E, a recent article in the Computing Research News listed topics being addressed with CS&E at Los Alamos National Laboratory, including designing and maintain nuclear weapons, simulation of the public infrastructure, climate change, HIV vaccines, defense against radiological attacks, and astrophysics. In addition to these topics, other institutions are using CS&E to study problems related to crash simulation, satellite data processing, bioinformatics, and financial modeling. Because many of these domains are complex and involve advanced scientific or engineering concepts, much of the CS&E software is written by domain experts rather than by software engineers. This proposal uses research and education to address the lack of emphasis the software engineering community has placed on the development of CS&E software.
+
+Furthermore, the design, implementation, development, and maintenance of CS&E applications can differ in significant ways from the systems and development processes more typically studied by the software engineering community:
+* The requirements often include conformance to sophisticated mathematical models.  Therefore, the requirements may take the form of an executable model in a system  such as Matlab, with the implementation involving porting to proper platform.
+* Often these projects are exploring unknown science making it difficult to determine  a concrete set of requirements a prioiri.
+* The software development process, or "workflow" for CS&E application development may differ profoundly from traditional software engineering processes. For example, one   scientific computing workflow, dubbed the "lone researcher", involves a single scientist developing a system to test a hypothesis. Once the system runs correctly   once and returns its results, the scientist has no further need of the system. This approach contrasts with more typical software engineering lifecycle models, in which the useful life of the software is expected to begin, not end, after the first correct execution.
+* CS&E applications often require more computing resources than are available on a typical workstation. Existing solutions for providing more computational resources (e.g., clusters, supercomputers, grids) can be difficult to use, resulting in additional software engineering challenges.
+* "Usability" in the context of CS&E application development may revolve around optimization to the machine architecture so that computations complete in a reasonable amount of time. The effort and resources involved in such optimization may exceed initial development of the algorithm. 
+
+Submission Instructions
+We encourage submission of position papers or statements of interest from members of the software engineering or computational science and engineering communities. Position papers of at most five pages will be solicited to address issues including but not limited to:
+* Case studies of software development processes (workflows) used in CS&E applications.
+* Measures of software development productivity appropriate to CS&E applications.
+* Activity and Purpose-based benchmarks for evaluating existing or proposed CS&E  architectures
+* Software engineering metrics and tool support for CS&E applications.
+* The design of empirical studies to better understand the environment, tools, languages, and processes used in CS&E application development and how they might be improved.
+The organizing committee hopes for participation from a broad range of stakeholders from across the software engineering, computational science/engineering, and grid computing communities. Accepted position papers will be posted on the workshop website (http://www.cse.msstate.edu/~SECSE08).
+
+Please observe the following:
+1. Position papers should be at most 8 pages.  
+2. Format your paper according to the ICSE 2008 technical paper guidelines  at http://icse08.upb.de//calls/fsguidelines.html 
+3. Submit your paper in PDF format to SECSE08@cse.msstate.edu 
+4. Deadline for submission: January 24, 2008.
+5. Submission notification: February 7, 2008.
+
+Program Committee:
+Jeffrey Carver				Steven Easterbrook
+Mississippi State University		University of Toronto
+carver@cse.msstate.edu  		sme@cs.toronto.edu  
+
+Jeremy Kepner				Bernd Mohr
+Lincoln Laboratory			Forschungszentrum Juelich GmbH
+kepner@ll.mit.edu 			b.mohr@fz-juelich.de 
+
+Lorin Hochstein				Judith Segal
+University of Nebraska-Lincoln		The Open University
+lorin@cse.unl.edu   			J.A.Segal@open.ac.uk 
