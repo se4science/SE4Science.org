@@ -36,10 +36,13 @@ a:focus {
 }
 
 .tm-logo-div { 
-	padding-top: 40px; 
-	padding-bottom: 40px;
+	padding-top: 10px; 
+	padding-bottom: 20px;
 }
-
+.tm-twitter-div { 
+	padding-right: 65px;
+    padding-left: 65px;
+}
 .tm-main-nav { display: none; }
 
 .tm-main-nav-ul {
@@ -178,7 +181,7 @@ textarea:-ms-input-placeholder {
 		cursor: pointer;
 		font-size: 1.5rem;
 		list-style: none;
-		padding: 18px 30px;
+		padding: 5px 30px;
 		transition: all 0.3s ease;
 	}
 
@@ -188,8 +191,8 @@ textarea:-ms-input-placeholder {
 	}
 
 	.tm-logo-div {
-	    padding-top: 50px;
-	    padding-bottom: 50px;
+	    padding-top: 40px;
+	    padding-bottom: 40px;
 	}
 
 	.tm-section { margin-bottom: 100px; }
@@ -277,8 +280,8 @@ textarea:-ms-input-placeholder {
 
 @media (min-height: 859px) {
 	.tm-logo-div {
-	    padding-top: 100px;
-	    padding-bottom: 100px;
+	    padding-top: 5px;
+	    padding-bottom: 5px;
 	}
 
 	.tm-nav-item { font-size: 1.9rem; }
