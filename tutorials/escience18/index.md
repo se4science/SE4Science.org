@@ -1,15 +1,16 @@
 
-### Tutorial: Contemporary Peer Code Review in Scientific Software Development
+## Tutorial: Contemporary Peer Code Review in Scientific Software Development
 * **Presenter** - *Jeffrey Carver* & *Nasir Eisty* (Department of Computer Science, University of Alabama, USA)
+* **Date & Time** - October 29, 2018 at 9:00 to 12:00
 * **Venue** - [14the eScience IEEE International Conference](https://www.escience2018.com/) (Amsterdam, The Netherlands)
-* Date & Time - October 29, 2018 at 9:00 to 12:00
+
 ---
 
-#### Abstract
+### Abstract
 
 Contemporary peer code review is a lightweight, asynchronous, tool-supported method for ensuring the quality, maintainability, and sustainability of software. While this approach has been useful in the development of traditional software, it is underutilized in the development of scientific HPC software. Because the complexity of scientific HPC software makes testing difficult, peer code review is a good option. Under the umbrella of Software Engineering for Science (http://www.SE4Science.org) and supported by the Better Scientific Software (http://BSSw.io) initiative, this tutorial introduces scientific HPC developers (and students) to the concepts of code review and its tool support. After background lectures on important topics, this tutorial will provide hands-on exercise to allow attendees to become familiar with code review and its tools. First, we will provide code review tutorial and help attendees set up their GitHub account to utilize the online code review tool, Gerrit. Then attendees will participate in a hands-on exercise in which they act both as the code author and as the reviewer to become familiar with both sides of the tool. After performing the code review, we will discuss the process and help attendees understand how best to perform code reviews in the future.
 
-#### Detailed Description
+### Detailed Description
 * **Tutorial goals** <br>
     The goal of this tutorial is to help developers of scientific HPC software learn about the practice and tools associated with contemporary peer code review. Participants will learn how tool-based contemporary code review differs from other approaches like mailing list code reviews or pull request reviews. A secondary goal is that attendees begin to understand how contemporary code review can be applied to the development of scientific HPC software. 
 * **How attendees will benefit** <br>
