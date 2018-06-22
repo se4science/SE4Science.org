@@ -2,7 +2,7 @@
 ### Tutorial: Contemporary Peer Code Review in Scientific Software Development
 * **Presenter** - *Jeffrey Carver* & *Nasir Eisty* (Department of Computer Science, University of Alabama, USA)
 * **Venue** - [14the eScience IEEE International Conference](https://www.escience2018.com/) (Amsterdam, The Netherlands)
-* **Date & Time** - October 29, 2018 at 9:00 to 12:00
+* Date & Time - October 29, 2018 at 9:00 to 12:00
 ---
 
 #### Abstract
@@ -12,17 +12,17 @@ Contemporary peer code review is a lightweight, asynchronous, tool-supported met
 #### Detailed Description
 * **Tutorial goals** <br>
     The goal of this tutorial is to help developers of scientific HPC software learn about the practice and tools associated with contemporary peer code review. Participants will learn how tool-based contemporary code review differs from other approaches like mailing list code reviews or pull request reviews. A secondary goal is that attendees begin to understand how contemporary code review can be applied to the development of scientific HPC software. 
-* **How attendees will benefit** \
+* **How attendees will benefit** <br>
     The attendees will benefit by learning how to employ code review on their own projects, which will lead to both improved scientific results in the short term (through higher quality software) and in the long-term (through the more maintainable and sustainable software).
-* **Targeted audience** \
+* **Targeted audience** <br>
     This tutorial will be of interest to developers of scientific HPC software who are interested in learning how to use tool-supported peer code review to improve the quality and maintainability of their software. The tutorial will also be especially valuable to students who are still learning the process of writing effective scientific HPC software.
-* **Audience prerequisites** \
+* **Audience prerequisites** <br>
     Because the code review tool is web-based, participants will need to have their own laptop to fully participate in the tutorial. While participants will not have to install any software on their computer for the tutorial, they will need to have a github account along with command line tools for git installed. 
-* **General description of tutorial content** \
+* **General description of tutorial content** <br>
     We will provide a lecture slide which includes the background and motivation of code review practices, the code review process in general, importance of contemporary code review practices in scientific software, discussions on code review exercises, an overview of different code review tools, and best practices of code review process. We will provide necessary documentation and demonstrate the use of a modern code review tool. We will also provide the codes for the hands-on exercises. 
-* **A statement about “hands-on” exercises** \
+* **A statement about “hands-on” exercises** <br>
     The participants will follow along with the presenter to learn the use of a code review tool. Next the participants will set-up their own GitHub account to work with the Gerrit code review tool. Next, the participants will have a hands-on experience with using the code review tool to request a review and to perform a review. 
-*   **What are the benefits of the "hands-on" exercises** \
+*   **What are the benefits of the "hands-on" exercises** <br>
     These hands on exercises will have two benefits. First, participants will learn how to use the interface of a contemporary code review tool, both as a reviewer and as a code author. Second, the participants will have a chance to practice code review and discuss their experiences.
 
 * **Detailed outline of the tutorial** 
