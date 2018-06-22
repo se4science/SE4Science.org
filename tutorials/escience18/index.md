@@ -1,6 +1,6 @@
 
 ## Tutorial: Contemporary Peer Code Review in Scientific Software Development
-* **Presenter** - *Jeffrey Carver* & *Nasir Eisty* (Department of Computer Science, University of Alabama, USA)
+* **Presenter** - [Jeffrey Carver](http://carver.cs.ua.edu/) & [Nasir Eisty](https://neisty.github.io/) (Department of Computer Science, University of Alabama, USA)
 * **Date & Time** - October 29, 2018 at 9:00 to 12:00
 * **Venue** - [14the eScience IEEE International Conference](https://www.escience2018.com/) (Amsterdam, The Netherlands)
 
