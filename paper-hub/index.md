@@ -15,6 +15,7 @@ software development practices such as using version control and issue trackers,
 Software faults in the scientific context are more rigorousas scientific software is used in the mission-critical situation, decision making, and computation of evidence for research publications. Even, it caused scientists to retract publications due to errors in scientific software. So, proper testing is very essential in scientific software. Kanewala et al. presents specific challenges, potential solutions, and unsolved problems faced while testing scientific software.
 ###### \* (Posted by Nasir Eisty on June 26, 2018)
 ---
+
 ### [Bridging the Chasm: A Survey of Software Engineering Practice in Scientific Programming](https://dl.acm.org/citation.cfm?id=3084225)
 * **Author** - Tim Storer, University of Glasgow, Glasgow, United Kingdom
 * **Published in** - Journal, ACM Computing Surveys (CSUR) - Volume 50 Issue 4, November 2017, Article No. 47
