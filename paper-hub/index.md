@@ -2,7 +2,7 @@
 ### [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 * **Author** - Greg Wilson , D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, Kathryn D. Huff, Ian M. Mitchell, Mark D. Plumbley, Ben Waugh, Ethan P. White, Paul Wilson
 * **Published in** - PLoS Biology 12(1):e1001745, January 7, 2014
-### Description <br>
+### Description 
 Scientist developers typically spend 30% or more of their time to develop software. However, almost all of them are self-taught. Therefore they lack manifestation of many basic
 software development practices such as using version control and issue trackers, writing maintainable code, and task automation. This paper describes a set of practices that have proven effective in many research setting and are easy to adopt. The authors recommend these practices based on their own experience in building scientific software, reports from many others groups, and software development in general.
 ###### \* (Posted by Nasir Eisty on June 26, 2018)
