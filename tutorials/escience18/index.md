@@ -2,7 +2,7 @@
 ## Tutorial: Contemporary Peer Code Review in Scientific Software Development
 * **Presenters** - [Jeffrey Carver](http://carver.cs.ua.edu/) & [Nasir Eisty](https://neisty.github.io/) (Department of Computer Science, University of Alabama, USA)
 * **Date & Time** - October 29, 2018 at 9:00 to 12:00
-* **Schedule** - [Click here for the schedule](https://se4science.org/tutorials/escience18/schedule.html)
+* **[Schedule](#Schedule)**
 * **Venue** - [14the eScience IEEE International Conference](https://www.escience2018.com/) (Amsterdam, The Netherlands)
 
 ---
@@ -33,6 +33,21 @@ Contemporary peer code review is a lightweight, asynchronous, tool-supported met
 #### Attendee Benefits
 1. Learn how to employ contemporary code review on their own projects.
 2. Use of code review will improve scientific results in the short term (through higher quality software) and in the longer term (through development of more maintaiable and sustainable software).
+
+### <a name="Schedule"></a>Schedule
+#### 8:30 - Introductions
+#### 8:45 - Background Lecture on Contemporary Peer Code Review
+#### 9:30 - Gerrit Tutorial
+#### 10:15 - Code Review Task 1 (<a href="dayOfYear.java">dayOfYear.java</a>)
+#### 10:30 - Coffee Break
+#### 11:00 - Q/A From Code Review Task 1
+#### 11:10 - Code Review Task 2 (<a href="leapYear.java">leapYear.java</a>)
+#### 11:40 - Q/A from Code Review Task 2
+#### 11:50 - Overview of other code review tools
+#### 12:05 - Feedback survey and Discussion
+#### 12:30 - Lunch
+
+#### <a href="CodeReview.zip">Zip file of code</a>
 
 ---
 * If you have any questions, please contact [Jeffrey Carver](http://carver.cs.ua.edu/).
