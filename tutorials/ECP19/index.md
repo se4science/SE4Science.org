@@ -15,7 +15,7 @@ Contemporary peer code review is a lightweight, asynchronous, tool-supported met
 
 ### <a name="Schedule"></a>Schedule
 #### 8:30 - Introductions
-#### 8:40 - Background Lecture on Contemporary Peer Code Review
+#### 8:40 - Background Lecture on Code Review
 #### 10:00 - Coffee Break
 #### 10:30 - Code Review exercise (<a href="SampleCode.java">Sample Code</a>)
 #### 11:00 - Experience sharing about the exercise
