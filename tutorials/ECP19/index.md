@@ -4,7 +4,7 @@
 * **Date & Time** - January 17, 2019 at 8:30 to 12:00
 * **[Schedule](#Schedule)**
 * **Tutorial Slides (to be posted)**
-* **Venue** - [2019 Excascale Computing Project Annual Meeting](https://www.ecpannualmeeting.com/) (Houston, Texas)
+* **Venue** - [2019 Exascale Computing Project Annual Meeting](https://www.ecpannualmeeting.com/) (Houston, Texas)
 
 ---
 
