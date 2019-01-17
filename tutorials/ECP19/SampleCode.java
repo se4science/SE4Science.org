@@ -1,7 +1,20 @@
-namespace CUSTOM.Business{
 /// <summary>
-///
+///The customer reached us because their custom code (below) was performing very poorly. The client actually
+///reported that a single document insert action takes anywhere from 6 to 10 seconds. You would probably agree
+///there must be something wrong with the code as 10 seconds for a simple insert is just too much. And you are
+///right - it is very suspicious whenever single action takes so long.
+///The custom code below imports a new content into Kentico CMS using our API. Source data are
+///retrieved through the channel to external web service. Perhaps the performance loss can be caused by the
+///delay in the response coming from the web service. That's true; you cannot really rely on external service.
+///There is no guarantee service would be available all the time and there will always be the factor of handshake
+///and request-response cost. Anyway, for this particular case let's assume the delay is no longer than 1 to
+///3 seconds. We are therefore still looking at additional 7-9 seconds of the execution time lost somewhere
+///along the lines of our custom code.
+///Let's take a closer look on the code now.
 /// </summary>
+
+namespace CUSTOM.Business{
+
 public static class LocationManager {
     private static LocationManagerDataSet _lmds;
     private static BranchManagerDataSet _bmds;
