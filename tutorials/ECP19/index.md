@@ -3,7 +3,7 @@
 * **Presenters** - [Jeffrey Carver](http://carver.cs.ua.edu/) & [Nasir Eisty](https://neisty.github.io/) (Department of Computer Science, University of Alabama, USA)
 * **Date & Time** - January 17, 2019 at 8:30 to 12:00
 * **[Schedule](#Schedule)**
-* **Tutorial Slides (to be posted)**
+* **[Tutorial Slides](slides.pdf)**
 * **Venue** - [2019 Exascale Computing Project Annual Meeting](https://www.ecpannualmeeting.com/) (Houston, Texas)
 
 ---
