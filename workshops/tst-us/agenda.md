@@ -69,6 +69,7 @@ February 4
 <td align="left">TBD</td>
 <td align="left">Dinner</td>
 </tr>
+</tbody>
 </table>
 
 February 5
@@ -129,4 +130,5 @@ February 5
 <td align="left">3:00</td>
 <td align="left">Workshop End</td>
 </tr>
+</tbody>
 </table>
