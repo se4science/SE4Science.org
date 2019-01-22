@@ -14,7 +14,7 @@ The workshop has two aims.
 2. Start building a detailed, evidence-­based report (dataset) that can be used as a foundation for understanding these challenges, by treating breakout sessions as focus groups and fully transcribing the discussion. 
 
 #### Agenda 
-The [agenda](https://github.com/se4science/SE4Science.org/blob/gh-pages/workshops/tst-us/agenda.md) of the workshop includes a small number of invited talks, short introductory lightning talks from all participants, and a large amount of participatory breakout sessions, in which small groups will examine the current challenges of Theory-Software Translation from technical and policy perspectives. 
+The [agenda](agenda.md) of the workshop includes a small number of invited talks, short introductory lightning talks from all participants, and a large amount of participatory breakout sessions, in which small groups will examine the current challenges of Theory-Software Translation from technical and policy perspectives. 
 Facilitators will record the discussions in each breakout session to allow the organizers to thematically analyze them to produce a report describing the current landscape.
 The report will also contain abstracts from workshop participants, a research roadmap, and policy recommendations.
 
