@@ -4,7 +4,8 @@ date: 2019-01-22
 author: "Jeff Carver"
 ---
 
-### Theory-Software Translation Workshop - US Edition in New Orleans, LA (February 4-5, 2019)
+Theory-Software Translation Workshop - US Edition in New Orleans, LA (February 4-5, 2019)
+==========
 
 The Theory-Software Translation workshop (jointly organized by research from the US and the UK) aims to explore the potential for a new multidisciplinary research area of _Theory-Software Translation_. This workshop will investigate the current challenges and barriers to the effective articulation of theory in software and the effective usage of the outputs of computation to modify and generate scientific theory. Theory-Software Translation research will contribute to the evidence-base for research software infrastructure strategy and practice at a local (individual/group), institutional (organization), national, and international level, identify cross-cutting challenges for computational research, and advance the techniques we use to perform it. The workshop (along with a UK workshop expected later in 2019) will produce a roadmap of research challenges and recommendations for research software engineering policy, underpinned by an evidence-based report. The US and UK together recognize and develop the profile of the software used in research, and the important role of those who are creating it.
 
