@@ -30,6 +30,7 @@ The report will also contain abstracts from workshop participants, a research ro
 #### Participants
 * Roscoe A. Bartlett, Sandia National Laboratories
 * Rinku Gupta, Argonne National Laboratory
+* James Howison, School of Information, University of Texas at Austin
 * Hans Johansen, Lawrence Berkeley National Laboratory
 * Dmitry Liakh, Oak Ridge Leadership Computing Facility, Oak Ridge National Laboratory
 * Vitali Morozov, Argonne Leadership Computing Facility, Argonne National Laboratory
@@ -39,4 +40,4 @@ The report will also contain abstracts from workshop participants, a research ro
 * Matthew Turk, School of Information Sciences, University of Illinois at Urbana-Champaign
 * Hubertus van Dam, Brookhaven National Laboratory
 * Hui Wan, Pacific Northwest National Laboratory
-* (more to be added)
+
