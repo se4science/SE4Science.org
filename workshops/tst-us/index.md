@@ -33,6 +33,8 @@ The report will also contain abstracts from workshop participants, a research ro
 * Dmitry Liakh, Oak Ridge Leadership Computing Facility, Oak Ridge National Laboratory
 * Vitali Morozov, Argonne Leadership Computing Facility, Argonne National Laboratory
 * Brian O’Shea, Department of Computational Mathematics, Science, and Engineering, Department of Physics and Astronomy, and National Superconducting Cyclotron Laboratory, Michigan State University
+* Katherine Riley, Argonne Leadership Computing Facility, Argonne National Laboratory
+* Matthew Turk, School of Information Sciences, University of Illinois at Urbana-Champaign
 * Hubertus van Dam, Brookhaven National Laboratory
 * Hui Wan, Pacific Northwest National Laboratory
 * (more to be added)
