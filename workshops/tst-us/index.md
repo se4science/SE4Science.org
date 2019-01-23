@@ -19,16 +19,20 @@ Facilitators will record the discussions in each breakout session to allow the o
 The report will also contain abstracts from workshop participants, a research roadmap, and policy recommendations.
 
 #### Organizers
-Steve Brandt (Louisiana State University)
+* Steven R. Brandt (Louisiana State University)
+* Jeffrey C. Carver (University of Alabama)
+* Anshu Dubey (Argonne National Laboratory)
+* Sandra Gesing (University of Notre Dame)
+* Robert Haines (University of Manchester)
+* Caroline Jay (University of Manchester)
+* Daniel S. Katz (University of Illinois Urbana-Champaign)
 
-Jeffrey C. Carver (University of Alabama)
-
-Anshu Dubey (Argonne National Laboratory)
-
-Sandra Gesing (University of Notre Dame)
-
-Robert Haines (University of Manchester)
-
-Caroline Jay (University of Manchester)
-
-Daniel S. Katz (NCSA)
+#### Participants
+* Roscoe A. Bartlett, Sandia National Laboratories
+* Rinku Gupta, Argonne National Laboratory
+* Dmitry Liakh, Oak Ridge Leadership Computing Facility, Oak Ridge National Laboratory
+* Vitali Morozov, Argonne Leadership Computing Facility, Argonne National Laboratory
+* Brian O’Shea, Department of Computational Mathematics, Science, and Engineering, Department of Physics and Astronomy, and National Superconducting Cyclotron Laboratory, Michigan State University
+* Hubertus van Dam, Brookhaven National Laboratory
+* Hui Wan, Pacific Northwest National Laboratory
+* (more to be added)
