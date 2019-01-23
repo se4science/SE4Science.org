@@ -30,6 +30,7 @@ The report will also contain abstracts from workshop participants, a research ro
 #### Participants
 * Roscoe A. Bartlett, Sandia National Laboratories
 * Rinku Gupta, Argonne National Laboratory
+* Hans Johansen, Lawrence Berkeley National Laboratory
 * Dmitry Liakh, Oak Ridge Leadership Computing Facility, Oak Ridge National Laboratory
 * Vitali Morozov, Argonne Leadership Computing Facility, Argonne National Laboratory
 * Brian O’Shea, Department of Computational Mathematics, Science, and Engineering, Department of Physics and Astronomy, and National Superconducting Cyclotron Laboratory, Michigan State University
