@@ -29,6 +29,7 @@ The report will also contain abstracts from workshop participants, a research ro
 
 #### Participants
 * Roscoe A. Bartlett, Sandia National Laboratories
+* Thomas Cheatham, III, University of Utah
 * Rinku Gupta, Argonne National Laboratory
 * James Howison, School of Information, University of Texas at Austin
 * Hans Johansen, Lawrence Berkeley National Laboratory
