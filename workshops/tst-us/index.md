@@ -34,6 +34,7 @@ The report will also contain abstracts from workshop participants, a research ro
 * James Howison, School of Information, University of Texas at Austin
 * Hans Johansen, Lawrence Berkeley National Laboratory
 * Dmitry Liakh, Oak Ridge Leadership Computing Facility, Oak Ridge National Laboratory
+* Dominic C. Marcello, Center for Computation & Technology, Louisiana State University 
 * Vitali Morozov, Argonne Leadership Computing Facility, Argonne National Laboratory
 * Brian O’Shea, Department of Computational Mathematics, Science, and Engineering, Department of Physics and Astronomy, and National Superconducting Cyclotron Laboratory, Michigan State University
 * James C. Phillips, NCSA Blue Waters Project Office, University of Illinois
