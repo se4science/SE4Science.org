@@ -100,7 +100,7 @@ February 5
 </tr>
 <tr class="odd">
 <td align="left">10:30</td>
-<td align="left">Cofee Break</td>
+<td align="left">Coffee Break</td>
 </tr>
 <tr class="even">
 <td align="left">11:00</td>
