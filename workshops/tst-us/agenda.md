@@ -66,8 +66,8 @@ February 4
 <td align="left">Breakout III Reports</td>
 </tr>
 <tr class="even">
-<td align="left">TBD</td>
-<td align="left">Dinner</td>
+<td align="left">6:30</td>
+  <td align="left"><a href="https://www.oceanagrill.com/">Oceana Grill</a>, 739 Conti, New Orleans</td>
 </tr>
 </tbody>
 </table>
