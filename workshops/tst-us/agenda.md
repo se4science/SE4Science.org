@@ -5,7 +5,7 @@ The workshop will take place at the [Hampton Inn and Suites New Orleans Downtown
 
 Meeting Location: Royal Room, 2nd Floor
 
-[Slides from talks](talks/talks.md)
+[Slides from talks](talks/)
 
 February 4
 ----------
