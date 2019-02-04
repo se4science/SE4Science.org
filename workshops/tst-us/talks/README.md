@@ -8,5 +8,5 @@ Workshop Introduction & Lightning Talks
 * [Dan Katz](Katz.pdf)
 * [Dmitry Lyakh](Lyakh.pdf)
 * [James Phillips](Phillips.pdf)
-* [Hubertus Van Dam](VanDam.pdf)
 * [Matthew Turk](Turk.pdf)
+* [Hubertus Van Dam](VanDam.pdf)
