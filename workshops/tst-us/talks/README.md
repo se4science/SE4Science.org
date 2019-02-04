@@ -1,4 +1,4 @@
-Workshop Talks
+Workshop Introduction & Lightning Talks
 ================
 (please keep in alphabetic order by last name)
 
