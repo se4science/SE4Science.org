@@ -46,30 +46,26 @@ February 4
 <td align="left">LUNCH</td>
 </tr>
 <tr class="even">
-<td align="left">2:00</td>
-<td align="left">Breakout I Reports</td>
+<td align="left">1:30</td>
+<td align="left">Breakout I Discussion</td>
 </tr>
 <tr class="odd">
-<td align="left">2:15</td>
-<td align="left">Breakout Discussion II</td>
+<td align="left">2:35</td>
+<td align="left">Breakout I Reports</td>
 </tr>
 <tr class="even">
-<td align="left">3:15</td>
-<td align="left">Breakout II Reports</td>
+<td align="left">3:00</td>
+<td align="left">Break</td>
 </tr>
 <tr class="odd">
 <td align="left">3:30</td>
-<td align="left">Coffee Break</td>
+<td align="left">Breakout Discussion II</td>
 </tr>
 <tr class="even">
-<td align="left">4:00</td>
-<td align="left">Breakout Discussion III</td>
+<td align="left">4:30</td>
+<td align="left">Breakout II Reports</td>
 </tr>
 <tr class="odd">
-<td align="left">4:45</td>
-<td align="left">Breakout III Reports</td>
-</tr>
-<tr class="even">
 <td align="left">6:30</td>
   <td align="left"><a href="https://www.oceanagrill.com/">Oceana Grill</a>, 739 Conti, New Orleans</td>
 </tr>
@@ -96,31 +92,23 @@ February 5
 </tr>
 <tr class="odd">
 <td align="left">9:30</td>
-<td align="left">Breakout IV (Social Issues)</td>
+<td align="left">Breakout III (Topics TBD)</td>
 </tr>
 <tr class="even">
-<td align="left"></td>
-<td align="left">Breakout IV (Technical Issues)</td>
-</tr>
-<tr class="odd">
 <td align="left">10:30</td>
 <td align="left">Coffee Break</td>
 </tr>
-<tr class="even">
-<td align="left">11:00</td>
-<td align="left">Breakout IV Reports</td>
-</tr>
 <tr class="odd">
-<td align="left">11:15</td>
-<td align="left">Breakout V (Social Issues)</td>
+<td align="left">11:00</td>
+<td align="left">Breakout III Reports</td>
 </tr>
 <tr class="even">
-<td align="left"></td>
-<td align="left">Breakout V (Social Issues)</td>
+<td align="left">11:15</td>
+<td align="left">Breakout IV (Topics TBD)</td>
 </tr>
 <tr class="odd">
 <td align="left">12:15</td>
-<td align="left">Breakout V Reports</td>
+<td align="left">Breakout IV Reports</td>
 </tr>
 <tr class="even">
 <td align="left">12:30</td>
