@@ -1,5 +1,4 @@
 Workshop Talks
 ================
 
-####
 * Author - title
