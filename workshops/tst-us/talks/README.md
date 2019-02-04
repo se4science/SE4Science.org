@@ -2,6 +2,7 @@ Workshop Introduction & Lightning Talks
 ================
 (please keep in alphabetic order by last name)
 
+* [Steve Brandt](Brandt.pdf)
 * [Anshu Dubey](Dubey.pdf)
 * [Sandra Gesing](Gesing.pdf)
 * [Rinku Gupta](Gupta.pdf)
