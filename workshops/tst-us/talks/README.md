@@ -12,3 +12,4 @@ Workshop Introduction & Lightning Talks
 * [James Phillips](Phillips.pdf)
 * [Matthew Turk](Turk.pdf)
 * [Hubertus Van Dam](VanDam.pdf)
+* [Hua Wan](Wan.pdf)
