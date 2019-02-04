@@ -50,7 +50,7 @@ February 4
 <td align="left">Breakout I Discussion</td>
 </tr>
 <tr class="odd">
-<td align="left">2:35</td>
+<td align="left">2:30</td>
 <td align="left">Breakout I Reports</td>
 </tr>
 <tr class="even">
