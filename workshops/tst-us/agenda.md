@@ -27,7 +27,7 @@ February 4
 </tr>
 <tr class="odd">
 <td align="left">9:15</td>
-<td align="left">Introductory Lightning Talks (participants)- Part I</td>
+<td align="left">Four Facings, Tom Cheatham<br>Introductory Lightning Talks (participants)- Part I</td>
 </tr>
 <tr class="even">
 <td align="left">10:30</td>
