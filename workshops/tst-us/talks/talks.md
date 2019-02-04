@@ -1,1 +1,3 @@
-Talks
+Workshop Talks
+================
+
