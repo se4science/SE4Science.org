@@ -6,3 +6,4 @@ Workshop Introduction & Lightning Talks
 * [Rinku Gupta](Gupta.pdf)
 * [Dan Katz](Katz.pdf)
 * [Dmitry Lyakh](Lyakh.pdf)
+* [Hubertus Van Dam](VanDam.pdf)
