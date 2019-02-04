@@ -1,7 +1,7 @@
 Workshop Agenda
 ==============
 
-The workshop will take place at the [Hampton Inn and Suites New Orleans Downtown (French Quarter Area)](https://hamptoninn3.hilton.com/en/hotels/louisiana/hampton-inn-and-suites-new-orleans-downtown-french-quarter-area-MSYDTHX/index.html), address is [226 Carondelet Street, New Orleans, Louisiana, 70130](https://goo.gl/maps/DRFFHv7PkxM2).
+[The workshop](../) will take place at the [Hampton Inn and Suites New Orleans Downtown (French Quarter Area)](https://hamptoninn3.hilton.com/en/hotels/louisiana/hampton-inn-and-suites-new-orleans-downtown-french-quarter-area-MSYDTHX/index.html), address is [226 Carondelet Street, New Orleans, Louisiana, 70130](https://goo.gl/maps/DRFFHv7PkxM2).
 
 Meeting Location: Royal Room, 2nd Floor
 
