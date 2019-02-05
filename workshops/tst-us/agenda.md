@@ -88,11 +88,11 @@ February 5
 </tr>
 <tr class="even">
 <td align="left">9:00</td>
-<td aligh="left">Recap of Day 1 / Planning for Day 2</td>
+<td aligh="left">Plenary</td>
 </tr>
 <tr class="odd">
 <td align="left">9:30</td>
-<td align="left">Breakout III (Topics TBD)</td>
+<td align="left">Breakout II</td>
 </tr>
 <tr class="even">
 <td align="left">10:30</td>
@@ -100,23 +100,27 @@ February 5
 </tr>
 <tr class="odd">
 <td align="left">11:00</td>
-<td align="left">Breakout III Reports</td>
+<td align="left">Breakout II Reports</td>
 </tr>
 <tr class="even">
-<td align="left">11:15</td>
-<td align="left">Breakout IV (Topics TBD)</td>
+<td align="left">11:30</td>
+<td align="left">Breakout III</td>
 </tr>
 <tr class="odd">
-<td align="left">12:15</td>
-<td align="left">Breakout IV Reports</td>
-</tr>
-<tr class="even">
 <td align="left">12:30</td>
 <td align="left">Lunch</td>
 </tr>
+<tr class="even">
+<td align="left">1:30</td>
+<td align="left">Breakout III Reports</td>
+</tr>
 <tr class="odd">
 <td align="left">2:00</td>
-<td align="left">Wrap-up and Report Writing</td>
+<td align="left">Plenary</td>
+</tr>
+<tr class="even">
+<td align="left">2:30</td>
+<td align="left">Report Planning</td>
 </tr>
 <tr class="even">
 <td align="left">3:00</td>
