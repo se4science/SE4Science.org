@@ -23,7 +23,7 @@
 		<div class="header">
 			<div class="header_text">
 				<span class="auto-style1">2019 International Workshop on Software Engineering for HPC-Enabled Research</span>
-				<h2>TBD, 2019</h2>
+				<h2>Sunday, Nov. 17, 2019</h2>
 				<h2>Held in Conjunction with <a href="https://sc19.supercomputing.org/">SC'19</a><br></h2>
 				<h2>Denver, CO<br><br></h2>
 				<h2>Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,6 +36,55 @@
 		<div class="article">
 
 <h3><u>Overview</u></h3>
+This workshop is concerned with identifying and applying appropriate software engineering (SE) tools and practices (e.g., code generators, static analyzers, validation + verification (V&V) practices, testing, design approaches, and maintenance practices) to support and ease the development of reproducible High Performance Computing (HPC) & Data Analysis/Analytics (HPCDA). Specifically:
+<ul>
+	<li>HPC applications, which include large parallel models/simulations of the physical world running on HPC systems.
+	<li>HPDA applications that utilize HPC systems (e.g., GPUs computing, compute clusters, cloud computing, containers, or supercomputers) to analyze large amounts of data.
+</ul>
+	
+Despite the increasing demand for utilizing HPC for such applications, software development for HPC historically attracted little attention from the SE community, while paradoxically, the HPC and HPDA communities have increasingly been adopting SE techniques and tools. Indeed, the development of HPC and HPDA software differs significantly from the development of more traditional business information systems, from which many SE best practices and tools have been drawn. These differences appear at various phases of the software lifecycle as described below:
+<ul>			
+	<li>Requirements:
+		<ul>
+			<li>Risks due to the exploration of relatively unknown scientific/engineering phenomena;
+			<li>Supporting reproducible science, particularly on non-deterministic systems;
+			<li>Constant change as new information is gathered;
+		</ul>
+	<li>Design
+		<ul>
+			<li>Data dependencies within the software;
+			<li>The need to identify the most appropriate parallelization strategy for HPC and HPDA algorithms; 
+			<li>Software engineering challenges related to applications running across different architectures; 
+			<li>Balancing the cost of resource utilization and developer productivity;
+			<li>Integration with modern frameworks and libraries, including machine learning libraries;
+			<li>The presence of complex communication among HPC nodes that could degrade performance;
+			<li>Challenges in designing unit and system tests at appropriate scales;
+			<li>The need for fault tolerance and task migration mechanisms to mitigate the need to restart time-consuming computations due to software or hardware errors;
+		</ul>
+	<li>V&V
+		<ul>
+			<li>Results are often unknown when exploring novel science or engineering areas, algorithms, and datasets;
+			<li>Challenges in applying unit and system tests at appropriate scales;
+			<li>Challenges in retrospectively designing and implementing tests for legacy code;
+			<li>Challenges in validating models on large scale systems;
+			<li>Popular tools often do not work on the latest HPC architectures; they need to be tuned to handle many threads executing at the same time.
+		</ul>
+	<li>Deployment
+		<ul>
+			<li>Failure of components within running systems is expected due to system size;
+			<li>Continuous integration on platforms with high available and infrequent downtimes;
+			<li>Easy-to-use build systems and packaging, including containers;
+			<li>Long system lifespans necessitate porting across multiple platforms.
+		</ul>
+</ul>
+
+Therefore, in order to identify and develop appropriate tools and practices to support HPC and HPDA software, members of the SE community, the HPC community, and the HPDA community must interact with each other. This workshop aims to provide a platform to facilitate this interaction by encouraging paper submission and workshop participation by people from all three communities. Following keynote addresses and presentations of accepted papers, we spend time in interactive brainstorming to identify the most important questions at the intersection of SE and HPC and HPDA in need of additional study, as an agenda for future research. We will also collectively assemble a list of important work in the area, including case studies, that can form the basis of a reading list for newcomers.
+<br><br>
+			
+Previous editions of this workshop have identified interesting topics related to research HPC software, including: bit-by-bit vs. scientific validation, reproducibility, unique characteristics of research HPC software that affect software development choices, major software quality goals for HPC software, crossing the communication chasm between SE and HPC, measuring the impact of SE on scientific productivity, SE tools and methods needed by the HPC community, and how to effectively test research HPC software. Topics identified in one workshop have often been the subject of papers submitted to a subsequent workshop. Given recent changes in both hardware platforms and software frameworks, this year we want to find new and changed topics that can be used to springboard the field forward.
+<br><br>
+
+Motivated by the outcomes of previous workshops, this edition of the workshop emphasizes data analysis/analytics software as a partner of computational science and engineering. In addition, we will place special emphasis on experience reports (including positive, negative, and neutral) of applying software engineering practices to the development of HPC and HPDA software. It is important to document those successes and failures for the community, and, as quality assurance is a challenge for HPC and HPDA software, which was specifically discussed previous workshops, we will also recruit papers describing quality assurance techniques for HPC and HPDA software and their use in practice focusing specifically on the challenges of unit testing, system testing, and continuous integration for HPC and HPDA software, addressing both legacy code and testing at scale on different architectures and platforms.
 
 
 <hr>
